@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wiszy-Coder
+- 👋 Hi, Everyone I’m @Wiszy-Coder
 - 👀 I’m interested in learning Frontend first but my goal is to become a Full Stack Dev
 - 🌱 I’m currently learning HTML still havn't learnt anything so far
 - 💞️ I’m looking to collaborate with experienced developers or like minded individual to learn and grow together in becoming a full stack developer 
