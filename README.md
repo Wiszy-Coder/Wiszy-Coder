@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with experienced developers or like minded individual to learn and grow together in becoming a full stack developer 
 - 📫 How to reach me Contact Whatsapp +2348147882038
 - 😄 Pronouns🧎 please i need a mentor
-- ⚡ Fun fact
+- ⚡ Fun fact The world's first web cam was created to monitor a coffee pot in 1991.
 
 <!---
 Wiszy-Coder/Wiszy-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
